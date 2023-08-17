@@ -1,0 +1,46 @@
+Sabzi Mandi,Hasan Square,10
+Hasan Square,Sabzi Mandi,10
+Hasan Square,City School,10
+Hasan Square,Bait Ul Mukarram,20
+Bait Ul Mukarram,Hasan Square,20
+Bait Ul Mukarram,Urdu Science,10
+Urdu Science,Bait Ul Mukarram,10
+Urdu Science,Nipa,20
+Nipa,Urdu Science,20
+Nipa,computer zone,10
+Nipa,norani resturant,10
+Nipa,Ibne sena,10
+Ibne sena,Nipa,10
+Ibne sena,UIT,10
+UIT,Ibne sena,10
+UIT,NED,20
+UIT,Maskan,10
+NED,UIT,20
+Maskan,UIT,10
+Maskan,Disco Bakery,10
+Disco Bakery,Maskan,10
+Disco Bakery,Alhuma Fabrics,10
+Alhuma Fabrics,Disco Bakery,10
+Alhuma Fabrics,Gulshan Traders,10
+Gulshan Traders,Alhuma Fabrics,10
+Gulshan Traders,Imtiaz Mega,20
+Gulshan Traders,computer zone,20
+Gulshan Traders,Rab Medical,20
+Imtiaz Mega,Gulshan Traders,20
+Rab Medical,Gulshan Traders,20
+Rab Medical,Continental bakery,20
+Continental bakery,Rab Medical,20
+Continental bakery,City School,20
+City School,Continental bakery,20
+City School,Hasan Square,10
+computer zone,Gulshan Traders,20
+computer zone,Nipa,10
+norani resturant,Nipa,10
+norani resturant,chase value,10
+chase value,norani resturant,10
+chase value,Lasania resturant,10
+Lasania resturant,chase value,10
+Lasania resturant,Johor more,10
+Johor more,Lasania resturant,10
+Johor more,Milinium Mall,10
+Milinium Mall,Johor more, 10
